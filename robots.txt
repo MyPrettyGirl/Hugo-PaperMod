@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://myprettygirl.github.io/Hugo-PaperMod/sitemap.xml
